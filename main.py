@@ -1,4 +1,4 @@
-print('This is our script')import numpy as np
+import numpy as np
 
 class Dog:
 	def __init__(self):
